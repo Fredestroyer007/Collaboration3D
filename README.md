@@ -82,11 +82,11 @@ Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous dés
 Ouvrez le dossier compressé et vous avez deux options maintenant.
 
 ### Sélectionner un modèle existant
-
+Si un modèle existe déjà pour votre configuration, veuillez le sélectionner et passer à l'étape [Impression](#impression).
 **TODO**
 
-### Configurer un modèle selon vos propres besoins
-
+### Configurer un modèle selon vos propres besoins!
+Si un modèle n'existe pas encore, vous pouvez créer le votre vous-même! La configuration est assez simple!
 #### Configuration OpenSCAD
 [OpenSCAD](https://www.openscad.org/) est un logiciel gratuit de modélisation CAD paramétrique. Au lieu de modéliser graphiquement un modèle, il est programmer. Cette particularité vous permet d'adapter très facilement le modèle à vos paramètres d'impression.
 
