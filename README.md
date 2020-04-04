@@ -6,7 +6,7 @@ Le modèle est une version modifiée du merveilleux modèle conçu par le [Fabla
 
 Le modèle peut sembler assez léger et peu résistant, mais je vous assures qu'avec une bonne impression, il est très difficile de casser la visière.
 
-For the version in English scroll to the end...
+For the version in English scroll to the end... **TO DO**
 
 ## Pour débuter vous allez avoir besoin de...
 
@@ -43,24 +43,24 @@ Ouvrez le dossier compressé et vous avez deux options maintenant.
 
 ### Option 1: Sélectionner un modèle existant (simple)
 
-** TO DO **
+**TO DO**
 
 ### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
 Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD ». Cliquer dessus pour lancer le programme :
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/modificationSCAD.PNG" /></div>
 
 Une fois dans le programme :
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/openSCADmain.PNG" /></div>
 
-Vous allez retrouver deux panneaux utiles pour vous. Celui du milieu est une visualisation de votre modèle :
+Vous pouvez fermer le premier panneau pour créer plus d'espace. Vous n'allez pas avoir besoin de ce panneau. Il s'agit du code de la pièce :
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/fermer.PNG" /></div>
 
-Et celui à droite est le panneau de modification :
+Sur le panneau de droite « Customizer », cliquer sur « Parameters » pour afficher les paramètres à modifier :
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/parameter.PNG" /></div>
 
 ## Impression
 
