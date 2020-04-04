@@ -23,16 +23,24 @@ For the version in English scroll to the end... **TODO**
 ## Table des matières
 
 * [Pour débuter vous allez avoir besoin de...](#pour-débuter-vous-allez-avoir-besoin-de)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Impression 3D](#impression-3d)
+  * [Préparation du modèle](#préparation-du-modèle)
+   * [Option 1: Sélectionner un modèle existant (simple)](#option-1:-sélectionner-un-modèle-existant-(simple))
+   * [Option 2: Configurer un modèle selon vos propres besoins (plus avancé)](#option02:-configurer-un-modèle-selon-vos-propres-besoins-(plus avancé))
+    * [Configuration OpenSCAD](#configuration-openscad)
+    * [Paramètres](#paramètres)
+    * [Exportation](#installation)
+  * [Impression](#installation)
+   * [Paramètres obligatoires](#installation)
+   * [Paramètres optionnels/avancés](#installation)
+* [Préparation de l'acétate](#usage)
+* [Préparation de l'élastique](#roadmap)
+* [Assemblage final](#contributing)
+* [Processus de désinfectation](#license)
+* [Avertissement](#contact)
+* [Auteurs](#acknowledgements)
+* [Licence](#acknowledgements)
+* [Reconnaissance](#acknowledgements)
 
 ## Pour débuter vous allez avoir besoin de...
 
@@ -60,7 +68,7 @@ Pas besoin d'un ordinateur très puissant, un ordinateur portable fonctionne par
 
 Plus la capacité est grande, plus votre travail sera facile, vous pourrez faire les trous dans plus d'une feuille d'acétate à la fois.
 
-# Impression 3D
+## Impression 3D
 ## Préparation du modèle
 
 Sur [la page principale Github](https://github.com/Fredestroyer007/Collaboration3D), cliquer sur « Clone or download » :
@@ -79,7 +87,7 @@ Ouvrez le dossier compressé et vous avez deux options maintenant.
 
 ### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
 
-#### Configuration
+#### Configuration OpenSCAD
 [OpenSCAD](https://www.openscad.org/) est un logiciel gratuit de modélisation CAD paramétrique. Au lieu de modéliser graphiquement un modèle, il est programmer. Cette particularité vous permet d'adapter très facilement le modèle à vos paramètres d'impression.
 
 Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD ». Cliquer dessus pour lancer le programme :
