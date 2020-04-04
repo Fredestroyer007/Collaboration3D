@@ -41,11 +41,12 @@ Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous dés
 
 Ouvrez le dossier compressé et vous avez deux options maintenant.
 
-### Option 1: Sélectionner un modèle existant (simple)
+#### Option 1: Sélectionner un modèle existant (simple)
 
 **TO DO**
 
-### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
+#### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
+##### Configuration
 Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD ». Cliquer dessus pour lancer le programme :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/modificationSCAD.PNG" /></div>
@@ -54,13 +55,17 @@ Une fois dans le programme :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/openSCADmain.PNG" /></div>
 
-Vous pouvez fermer le premier panneau pour créer plus d'espace. Vous n'allez pas avoir besoin de ce panneau. Il s'agit du code de la pièce :
+Vous pouvez fermer le premier panneau pour créer plus d'espace. Vous n'allez pas avoir besoin de ce panneau. Il s'agit du code source de la pièce :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/fermer.PNG" /></div>
 
 Sur le panneau de droite « Customizer », cliquer sur « Parameters » pour afficher les paramètres à modifier :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/parameter.PNG" /></div>
+
+À la gauche de l'interface, vous retrouvez une visualisation de votre modèle et, à la droite, le panneau des paramètres à modifier. Votre interface devrait ressembler à ceci :
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/main.PNG" /></div>
 
 ## Impression
 
