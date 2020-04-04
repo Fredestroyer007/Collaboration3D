@@ -84,7 +84,7 @@ Sur le panneau de droite « Customizer », cliquer sur « Parameters » pour aff
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/parameter.PNG" /></div>
 
-À la gauche de l'interface, vous retrouvez une visualisation de votre modèle et, à la droite, le panneau des paramètres à modifier. Votre interface devrait ressembler à ceci :
+Maitenant que l'interface est prêt, à la gauche, vous retrouvez une visualisation de votre modèle et, à la droite, le panneau des paramètres à modifier. Votre interface devrait ressembler à ceci :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/main.PNG" /></div>
 
