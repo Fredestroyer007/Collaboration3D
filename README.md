@@ -226,7 +226,7 @@ Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulemen
 
 # Licence
 
-Ce projet est distribué sous une licence GNU General Public License v3.0 - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails
+Ce projet est distribué sous une licence GNU General Public License v3.0 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
 # Reconnaissance
 
