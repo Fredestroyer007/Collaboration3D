@@ -18,7 +18,7 @@ Un gros merci à nos commanditaires : le Collège de Bois-de-Boulogne, la fondat
 
 Si vous désirez nous commandités, visiter notre [site web](https://collaboration3d.ca/) pour plus d'information!
 
-For the version in English scroll to the end... **TO DO**
+For the version in English scroll to the end... **TODO**
 
 ## Pour débuter vous allez avoir besoin de...
 
@@ -42,7 +42,7 @@ Il faut deux élastiques standard ou vous pouvez concocter votre propre solution
 
 Pas besoin d'un ordinateur très puissant, un ordinateur portable fonctionne parfaitement.
 
-- Une perforatrice 3 trous de format nord américain 4.25" (format de cartable standard au Canada et aux États-Unis)
+- Une perforatrice 3 trous de format nord-américain 4.25" (format de cartable standard au Canada et aux États-Unis)
 
 Plus la capacité est grande, plus votre travail sera facile, vous pourrez faire les trous dans plus d'une feuille d'acétate à la fois.
 
@@ -61,7 +61,7 @@ Ouvrez le dossier compressé et vous avez deux options maintenant.
 
 ### Option 1: Sélectionner un modèle existant (simple)
 
-**TO DO**
+**TODO**
 
 ### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
 
@@ -167,13 +167,34 @@ Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker
 « Build Plate Adhesion » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/adhesion.PNG" /></div>
 
+Bonne chance! Persévérez, amusez-vous, c'est le plus important. Il ne faut pas trop se prendre au sérieux :)
 # Préparation de l'acétate
+À l'aide d'une troueuse standard pour faire des trous de cartable (une troueuse qui fait des trous au standard nord-américain 4.25"), faites des trous dans une feuille d'acétate de la même manière que vous faites pour une feuille de papier standard.
 
+**TODO** Ajouter une photo
+
+Si la capacité de votre troueuse le permet, nous vous recommandons de faire des trous dans plusieurs feuilles d'acétate à la fois!
 # Préparation de l'élastique
+Attacher deux élastiques ensembles! C'est l'étape la plus simple!
 
+**TODO** Ajouter une photo
 # Assemblage final
+L'assemblage final se fait en deux simples:
+
+1. Attacher la feuille d'acétate sur la pièce imprimé en 3D. La feuille ne devrait pas pouvoir être retiré facilemment des points de support.
+
+**TODO** Ajouter une photo
+
+2. Ajouter les deux élastiques sur les crochets.
+
+**TODO** Ajouter une photo
+
+Voilà! L'assemblage est aussi simple!
+
+**TODO** Ajouter une photo
 
 # Processus de désinfectation
+Une étape très important est le processus de désinfectation de la visière. Pour débuter, veuillez suivre les précautions suivantes lors de la production :
+1.
 
-
-TO DO
+**TODO**
