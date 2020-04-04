@@ -22,7 +22,7 @@ Vous pourrez en trouver dans les articles de bureau
 - Des élastiques
 
 Il faut deux élastiques standard ou vous pouvez concocter votre propre solution pour faire tenir la visière sur la tête.
-- Un ordinateur avec [OpenSCAD](https://www.openscad.org/) installé et le logiciel requis pour votre imprimante
+- Un ordinateur avec [OpenSCAD](https://www.openscad.org/) installé (optionnel) et le logiciel requis pour votre imprimante
 
 Pas besoin d'un ordinateur très puissant, un ordinateur portable fonctionne parfaitement.
 - Une perforatrice 3 trous
@@ -32,10 +32,35 @@ Plus la capacité est grande, plus votre travail sera facile, vous pourrez faire
 ## Préparation du modèle
 
 Sur [la page principale Github](https://github.com/Fredestroyer007/Collaboration3D), cliquer sur « Clone or download » :
+
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
 
-Après avoir installé [OpenSCAD](https://www.openscad.org/)
+Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous désirez télécharger les fichiers :
 
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/downloadZip.PNG" /></div>
+
+Ouvrez le dossier compressé et vous avez deux options maintenant.
+
+### Option 1: Sélectionner un modèle existant (simple)
+
+** TO DO **
+
+### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
+Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD ». Cliquer dessus pour lancer le programme :
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+
+Une fois dans le programme :
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+
+Vous allez retrouver deux panneaux utiles pour vous. Celui du milieu est une visualisation de votre modèle :
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+
+Et celui à droite est le panneau de modification :
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
 
 ## Impression
 
