@@ -42,7 +42,7 @@ Il faut deux élastiques standard ou vous pouvez concocter votre propre solution
 
 Pas besoin d'un ordinateur très puissant, un ordinateur portable fonctionne parfaitement.
 
-- Une perforatrice 3 trous
+- Une perforatrice 3 trous de format nord américain 4.25" (format de cartable standard au Canada et aux États-Unis)
 
 Plus la capacité est grande, plus votre travail sera facile, vous pourrez faire les trous dans plus d'une feuille d'acétate à la fois.
 
@@ -66,6 +66,7 @@ Ouvrez le dossier compressé et vous avez deux options maintenant.
 ### Option 2: Configurer un modèle selon vos propres besoins (plus avancé)
 
 #### Configuration
+[OpenSCAD](https://www.openscad.org/) est un logiciel gratuit de modélisation CAD paramétrique. Au lieu de modéliser graphiquement un modèle, il est programmer. Cette particularité vous permet d'adapter très facilement le modèle à vos paramètres d'impression.
 
 Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD ». Cliquer dessus pour lancer le programme :
 
@@ -89,7 +90,7 @@ Sur le panneau de droite « Customizer », cliquer sur « Parameters » pour aff
 
 #### Paramètres
 
-Vous avez deux paramètres à modifier. Le premier « Stack » est le nombre de visière empiler que vous désirez imprimer par impression. Nous vous suggérons de commencer par des plus petites valeurs et de lentement augmenter le nombre de visière que vous imprimez à la fois à mesure que vous découvrez les limites de votre imprimante 3D. Le second paramètre est « Height ». Vous devez simplement entrez la valeur de la hauteur d'impression de chaque couche de votre imprimante. Ce paramètre est mieux connu sous le nom anglais « layer height ». Dans les contraintes de votre imprimante, plus ce paramètre est grand, plus l'impression sera rapide. Avec ceci en tête, nous vous recommandons de viser une hauteur de couche de 0.3mm et plus si possible pour votre imprimante. Pour observer l'effet de vos paramètres sur la visualisation, cliquer sur un autre champs.
+Vous avez deux paramètres à modifier. Le premier « Stack » est le nombre de visière empiler que vous désirez imprimer par impression. Nous vous suggérons de commencer par des plus petites valeurs et de lentement augmenter le nombre de visière que vous imprimez à la fois à mesure que vous découvrez les limites de votre imprimante 3D. Le second paramètre est « Height ». Vous devez simplement entrez la valeur de la hauteur d'impression de chaque couche de votre imprimante. Ce paramètre est mieux connu sous le nom anglais « layer height ». Dans les contraintes de votre imprimante, plus ce paramètre est grand, plus l'impression sera rapide. Avec ceci en tête, nous vous recommandons de viser une hauteur de couche de 0.3mm et plus si possible pour votre imprimante. Pour observer l'effet de vos paramètres sur la visualisation, cliquer sur un autre champs de paramètre.
 
 Par exemple, pour une Creality Ender-3, comme paramètre pour débuter, nous vous recommandons d'imprimer trois visières à la fois avec une hauteur de couche de 0.28mm :
 
