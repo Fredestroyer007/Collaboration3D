@@ -110,17 +110,21 @@ Pour débuter, nous vous recommandons de partir de vos paramètres d'impression 
 
 ### Paramètres obligatoires
 
-Pour débuter, dans votre slicer, vous devez sélectionner la même hauteur de couche (« Layer height ») que vous avez sélectionner comme modèle ou dans OpenSCAD. Des hauteurs de couches supérieur à ce que vous imprimez probablement normalement sont recommandés pour augmenter la cadence de production. Viser une hauteur de couche de 0.3mm et plus si votre imprimante 3D le permet.
+Pour débuter, dans votre slicer, vous devez sélectionner la même hauteur de couche (« Layer height ») que vous avez sélectionner comme modèle ou dans OpenSCAD. Le but de ce paramètre est de s'assurer que l'espace entre chaque visière soit exactement 2 couches d'impression. Il s'agit probablement d'une hauteur de couches supérieur à ce que vous imprimez normalement, mais le but est d'augmenter la cadence de production. Viser une hauteur de couche de 0.3mm et plus si votre imprimante 3D le permet. 
 
-Le modèle est fait pour être imprimer avec des épaisseurs de branches de 1.2mm. Pour accélérer l'impression et éviter l'utilisation de remplissage (« Infill »), vous devez sélectionner une largeur d'extrusion  (« Extrusion width » ou « Line width ») qui est un multiple de 1.2mm. Les valeurs possibles sont 0.3mm, 0.4mm ou 0.6mm. TOUTES AUTRES VALEURS REQUIERT DES MODIFICATIONS DU CODE SOURCE DU MODÈLE ET NE SONT PAS RECOMMANDÉ PAR COLLABORATION3D. Garder à l'esprit que la valeur idéale est 0.6mm pour accélérer l'impression. Cependant, une valeur de 0.6mm n'est pas possible avec une buse de 0.3mm, donc pour cette grandeur de buse, limiter la valeur à 0.4mm.
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/layer.PNG" /></div>
 
-Désactiver toutes formes de remplissage (« Infill ») en sélectionnant une valeur de 0% et sélectionner un nombre de mur assez grand (5-6 murs) pour s'assurer que la visière soit imprimée solide.
+Le modèle est fait pour être imprimer avec des épaisseurs de branches de 1.2mm. Pour accélérer l'impression et éviter l'utilisation de remplissage (« Infill »), vous devez sélectionner une largeur d'extrusion  (« Extrusion width » ou « Line width ») qui est un multiple de 1.2mm. Les valeurs possibles sont 0.3mm, 0.4mm ou 0.6mm. Garder à l'esprit que la valeur idéale est 0.6mm pour accélérer l'impression. Cependant, une valeur de 0.6mm n'est pas possible avec une buse de 0.3mm, donc pour cette grandeur de buse, limiter la valeur à 0.4mm.
+
+Par le fait même, il faut désactiver toutes formes de remplissage (« Infill ») en sélectionnant une valeur de 0% et sélectionner un nombre de mur assez grand (5-6 murs) pour s'assurer que la visière soit imprimée solide.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/width.PNG" /></div>
 
 Désactiver toutes formes de support, elles sont déjà intégrer dans le modèle.
 
 Si la superficie de votre imprimante le permet, vous pouvez imprimer plus d'une tour de visières à la fois. Si vous optez pour cette alternative, garder les crochets les plus près les un des autres pour limiter la durée d'impression.
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/render.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/close.PNG" /></div>
 
 ### Paramètres optinnels/avancés
 
