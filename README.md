@@ -31,7 +31,9 @@ Plus la capacité est grande, plus votre travail sera facile, vous pourrez faire
 
 ## Préparation du modèle
 
-Après avoir installé 
+Sur [la page principale Github](https://github.com/Fredestroyer007/Collaboration3D), 
+
+Après avoir installé [OpenSCAD](https://www.openscad.org/)
 
 
 ## Impression
