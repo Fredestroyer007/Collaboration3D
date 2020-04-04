@@ -106,7 +106,7 @@ Ensuite, pour exporter le modèle, cliquer sur F7 et sélectionner l'endroit pou
 
 ## Impression
 
-Pour débuter, nous vous recommandons de partir de vos paramètres d'impression standard pour votre imprimante pour faire des modifications.
+Pour débuter, nous vous recommandons de partir de vos paramètres d'impression standard pour votre imprimante pour faire des modifications. Utiliser les paramètres de température recommandé par le fabricant de votre filament.
 
 ### Paramètres obligatoires
 
@@ -126,17 +126,17 @@ Si la superficie de votre imprimante le permet, vous pouvez imprimer plus d'une 
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/close.PNG" /></div>
 
-### Paramètres optinnels/avancés
+### Paramètres optionnels/avancés
 
 Voici quelques paramètres à modifier pour accélérer l'impression. Garder à l'esprit qu'on vise le volume et non la perfection. Aussi, rester à l'intérieur des capacités de votre imprimante. Il est préférable d'imprimer un peu plus lentement que la moitié de vos impressions échoues.
 
-Une vitesse d'impression de plus de 80mm/s devrait être atteignable sur une majorité d'imprimante. Nous vous recommandons de garder la vitesse d'impression de votre premières couches assez lentes (25mm/s) et d'augmenter votre vitesse de déplacement à plus de 200mm/s.
+Une vitesse d'impression de plus de 80mm/s devrait être atteignable sur une majorité d'imprimante. Nous vous recommandons de garder la vitesse d'impression de votre premières couches assez lentes (25mm/s) et d'augmenter votre vitesse de déplacement (« Travel ») à plus de 200mm/s.
 
 Si votre imprimante le supporte, vous pouvez augmenter les valeurs d'accélération.
 
-Il ne s'agit que de simples pistes de réflexion. Les paramètres varient énormément d'une imprimante à une autre.
+Il ne s'agit que de simples pistes de réflexion. Les paramètres varient énormément d'une imprimante à une autre. Expérimenter! C'est une partie du plaisirs de l'impression 3D!
 
-Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker.com/software/ultimaker-cura) pour une Creality Ender-3 :
+Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker.com/software/ultimaker-cura) pour une Creality Ender-3 modifié (vous ne serez pas nécessairement en mesure d'atteindre les mêmes vitesses avec une Ender-3, considérer ceci comme une cible) :
 
 # Préparation de l'acétate
 
