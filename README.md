@@ -140,22 +140,31 @@ Il ne s'agit que de simples pistes de réflexion. Les paramètres varient énorm
 
 Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker.com/software/ultimaker-cura) pour une Creality Ender-3 modifié (vous ne serez pas nécessairement en mesure d'atteindre les mêmes vitesses avec une Ender-3, considérer ceci comme une cible) :
 
+« Quality » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/quality.PNG" /></div>
 
+« Shell » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/shell.PNG" /></div>
 
+« Infill » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/infill.PNG" /></div>
 
+« Material » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Material.PNG" /></div>
 
+« Speed » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Speed.PNG" /></div>
 
+« Travel » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Travel.PNG" /></div>
 
+« Cooling » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Cooling.PNG" /></div>
 
+« Support » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/supportcura.PNG" /></div>
 
+« Build Plate Adhesion » :
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/adhesion.PNG" /></div>
 
 # Préparation de l'acétate
