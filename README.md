@@ -22,7 +22,7 @@ For the version in English scroll to the end... **TODO**
 
 ## Table des matières
 
-* [Pour débuter vous allez avoir besoin de...](#pour-débuter-vous-allez-avoir-besoin-de...)
+* [Pour débuter vous allez avoir besoin de...](#pour-débuter-vous-allez-avoir-besoin-de)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
