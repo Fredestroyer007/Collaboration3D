@@ -122,6 +122,8 @@ Par le fait même, il faut désactiver toutes formes de remplissage (« Infill �
 
 Désactiver toutes formes de support, elles sont déjà intégrer dans le modèle.
 
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/support.PNG" /></div>
+
 Si la superficie de votre imprimante le permet, vous pouvez imprimer plus d'une tour de visières à la fois. Si vous optez pour cette alternative, garder les crochets les plus près les un des autres pour limiter la durée d'impression.
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/close.PNG" /></div>
@@ -137,6 +139,24 @@ Si votre imprimante le supporte, vous pouvez augmenter les valeurs d'accélérat
 Il ne s'agit que de simples pistes de réflexion. Les paramètres varient énormément d'une imprimante à une autre. Expérimenter! C'est une partie du plaisirs de l'impression 3D!
 
 Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker.com/software/ultimaker-cura) pour une Creality Ender-3 modifié (vous ne serez pas nécessairement en mesure d'atteindre les mêmes vitesses avec une Ender-3, considérer ceci comme une cible) :
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/quality.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/shell.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/infill.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Material.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Speed.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Travel.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/Cooling.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/supportcura.PNG" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/adhesion.PNG" /></div>
 
 # Préparation de l'acétate
 
