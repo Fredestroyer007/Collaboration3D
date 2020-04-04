@@ -31,7 +31,9 @@ Plus la capacité est grande, plus votre travail sera facile, vous pourrez faire
 
 ## Préparation du modèle
 
-Sur [la page principale Github](https://github.com/Fredestroyer007/Collaboration3D), 
+Sur [la page principale Github](https://github.com/Fredestroyer007/Collaboration3D), cliquer sur « Clone or download » :
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
+
 
 Après avoir installé [OpenSCAD](https://www.openscad.org/)
 
