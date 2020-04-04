@@ -14,7 +14,7 @@ Vous pouvez aussi visiter notre [site web](https://collaboration3d.ca/) pour plu
 
 Un gros merci à nos commanditaires : le Collège de Bois-de-Boulogne, la fondation de l'Hôpital Sacré-Coeur de Montréal et Bureau en gros!
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/commanditaire%20.png" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/commanditaire.png" /></div>
 
 Si vous désirez nous commandités, visiter notre [site web](https://collaboration3d.ca/) pour plus d'information!
 
