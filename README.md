@@ -1,10 +1,18 @@
 # Tutoriel pour la production des visières Collaboration3D
 
-Dans ce guide vous allez retrouver toutes les informations requises pour fabriquer vos propres visières par impression 3D. 
+Dans ce guide vous allez retrouver toutes les informations requises pour fabriquer vos propres visières par impression 3D pour aider dans la lutte contre COVID-19.
 
 Le modèle est une version modifiée du merveilleux modèle conçu par le [Fablab de l'Université Libre de Bruxelles](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/). Vous pouvez retrouver leur modèle original [ici](https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields/-/tree/master/PFC-Headband-Light-3DPrint).
 
 Le modèle peut sembler assez léger et peu résistant, mais je vous assures qu'avec une bonne impression, il est très difficile de casser la visière.
+
+Si vous imprimez le modèle, envoyer nous des photos sur [Facebook](https://www.facebook.com/Collaboration3D/). Nous voulons voir vos résultats!!!
+
+Vous pouvez aussi visiter notre [site web](https://collaboration3d.ca/) pour plus d'information!
+
+Un gros merci à nos commanditaires : le Collège de Bois-de-Boulogne, la fondation de l'Hôpital Sacré-Coeur de Montréal et Bureau en gros!
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/collaboration3d.ca/master/img/commanditaire.png" /></div>
 
 For the version in English scroll to the end... **TO DO**
 
@@ -15,7 +23,7 @@ For the version in English scroll to the end... **TO DO**
 Tant que la zone d'impression mesure un minimum de 125x125mm vous allez être en mesure d'imprimer les visières. Une surface chauffante est recommendée, mais elle n'est pas essentielle. Utiliser la même méthode d'impression que vous utilisez normalement pour du PLA.
 - Du filament de type PLA
 
-Peu couteux, facilement accessible et possible d'imprimer à grande vitesse, le PLA est un matériel idéal pour ce genre d'utilisation. Il faut environ 8g de filament par visière, donc avec une bobine standard de 1kg, vous devriez être en mesure de produire environ 125 visières. Si la production de volume ne vous intéresse pas, vous pouvez aussi utiliser des matériaux comme le PETG, l'ABS, le nylon qui possèdent divers avantages sur le PLA.
+Peu couteux, facilement accessible et possible d'imprimer à grande vitesse, le PLA est un matériel idéal pour ce genre d'utilisation. Il faut environ 8g de filament par visière, donc avec une bobine standard de 1kg, vous devriez être en mesure de produire environ 125 visières. Si la production de volume ne vous intéresse pas, vous pouvez aussi utiliser des matériaux comme le PETG, l'ABS, le nylon qui possèdent divers avantages sur le PLA, mais leur vitesse d'impression est plus lente.
 - Des feuilles d'acétate de format A4
 
 Vous pourrez en trouver dans les articles de bureau
@@ -71,17 +79,17 @@ Sur le panneau de droite « Customizer », cliquer sur « Parameters » pour aff
 
 #### Paramètres
 
-Vous avez deux paramètres à modifier. Le premier « Stack » est le nombre de visière empiler que vous désirez imprimer par impression. Nous vous suggérons de commencer par des plus petites valeurs et de lentement augmenter le nombre de visière que vous imprimez à la fois à mesure que vous découvrez les limites de votre imprimante 3D. Le second paramètre est « Height ». Vous devez simplement entrez la valeur de la hauteur d'impression de chaque couche de votre imprimante. Ce paramètre est mieux connu sous le nom anglais « layer heigh ». Dans les contraintes de votre imprimante, plus ce paramètre est grand, plus l'impression sera rapide.
+Vous avez deux paramètres à modifier. Le premier « Stack » est le nombre de visière empiler que vous désirez imprimer par impression. Nous vous suggérons de commencer par des plus petites valeurs et de lentement augmenter le nombre de visière que vous imprimez à la fois à mesure que vous découvrez les limites de votre imprimante 3D. Le second paramètre est « Height ». Vous devez simplement entrez la valeur de la hauteur d'impression de chaque couche de votre imprimante. Ce paramètre est mieux connu sous le nom anglais « layer height ». Dans les contraintes de votre imprimante, plus ce paramètre est grand, plus l'impression sera rapide.
 
 Par exemple, pour une Creality Ender-3, comme paramètre pour débuter, nous vous recommandons d'imprimer trois visières à la fois avec une hauteur de couche de 0.28mm :
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/main.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/setting.PNG" /></div>
 
 #### Exportation
 
 Avant d'exporter votre modèle pour impression, vous devez faire le rendu du modèle en cliquant sur F6. Soyez patient. Un modèle volumineux avec plusieurs visières de hauteur peut prendre quelques minutes à faire le rendu. Quand le rendu est finit, vous devriez entendre un son et voir apparaître un message comme celui-ci dans le bas de votre écran :
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/main.PNG" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/render.PNG" /></div>
 
 Ensuite, pour exporter le modèle, cliquer sur F7 et sélectionner l'endroit pour sauvgarder le fichier. Garder à l'esprit de lui donner un nom utile, OpenSCAD ne gardera pas vos paramètres en mémoire!
 
