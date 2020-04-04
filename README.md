@@ -16,6 +16,8 @@ Un gros merci à nos commanditaires : le Collège de Bois-de-Boulogne, la fondat
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/collaboration3d.ca/master/img/commanditaire.png" /></div>
 
+Si vous désirez nous commandités, visiter notre [site web](https://collaboration3d.ca/) pour plus d'information!
+
 For the version in English scroll to the end... **TO DO**
 
 ## Pour débuter vous allez avoir besoin de...
@@ -25,7 +27,7 @@ For the version in English scroll to the end... **TO DO**
 Tant que la zone d'impression mesure un minimum de 125x125mm vous allez être en mesure d'imprimer les visières. Une surface chauffante est recommendée, mais elle n'est pas essentielle. Utiliser la même méthode d'impression que vous utilisez normalement pour du PLA.
 - Du filament de type PLA
 
-Peu couteux, facilement accessible et possible d'imprimer à grande vitesse, le PLA est un matériel idéal pour ce genre d'utilisation. Il faut environ 8g de filament par visière, donc avec une bobine standard de 1kg, vous devriez être en mesure de produire environ 125 visières. Si la production de volume ne vous intéresse pas, vous pouvez aussi utiliser des matériaux comme le PETG, l'ABS, le nylon qui possèdent divers avantages sur le PLA, mais leur vitesse d'impression est plus lente.
+Peu coûteux, facilement accessible et possible d'imprimer à grande vitesse, le PLA est un matériel idéal pour ce genre d'utilisation. Il faut environ 8g de filament par visière, donc avec une bobine standard de 1kg, vous devriez être en mesure de produire environ 125 visières. Si la production de volume ne vous intéresse pas, vous pouvez aussi utiliser des matériaux comme le PETG, l'ABS, le nylon qui possèdent divers avantages sur le PLA, mais leur vitesse d'impression est plus lente.
 - Des feuilles d'acétate de format A4
 
 Vous pourrez en trouver dans les articles de bureau
