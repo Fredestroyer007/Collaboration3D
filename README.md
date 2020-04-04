@@ -83,6 +83,7 @@ Ouvrez le dossier compressé et vous avez deux options maintenant.
 
 ### Sélectionner un modèle existant
 Si un modèle existe déjà pour votre configuration, veuillez le sélectionner et passer à l'étape [Impression](#impression).
+
 **TODO**
 
 ### Configurer un modèle selon vos propres besoins!
