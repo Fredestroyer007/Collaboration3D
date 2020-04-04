@@ -168,6 +168,7 @@ Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/adhesion.PNG" /></div>
 
 Bonne chance! Persévérez, amusez-vous, c'est le plus important. Il ne faut pas trop se prendre au sérieux :)
+
 # Préparation de l'acétate
 À l'aide d'une troueuse standard pour faire des trous de cartable (une troueuse qui fait des trous au standard nord-américain 4.25"), faites des trous dans une feuille d'acétate de la même manière que vous faites pour une feuille de papier standard.
 
@@ -219,3 +220,15 @@ Si cette alternative n'est pas une option, vous pouvez simplement passer un ling
 
 # Avertissement
 Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulement être utilisé en dernier recours, si aucune autres alternatives est disponibles. Nous dénions formellement toutes responsabilités.
+
+# Auteurs
+* **Frédéric Larochelle** - *Travail initial* - [Fredestroyer007](https://github.com/Fredestroyer007)
+
+# Licence
+
+Ce projet est distribué sous une licence GNU General Public License v3.0 - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails
+
+# Reconnaissance
+
+Un gros merci au [Fablab de l'Université Libre de Bruxelles](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/) pour avoir rendu disponible en ligne leur modèle. Vous pouvez retrouver leur modèle original [ici](https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields/-/tree/master/PFC-Headband-Light-3DPrint).
+
