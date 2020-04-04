@@ -32,9 +32,9 @@ For the version in English scroll to the end... **TODO**
       * [Exportation](#exportation)
   * [Impression](#impression)
     * [Paramètres obligatoires](#paramètres-obligatoires)
-    * [Paramètres optionnels/avancés](#paramètres-optionnels-avancés)
-* [Préparation de l'acétate](#préparation-de-l-acétate)
-* [Préparation de l'élastique](#préparation-de-l-élastique)
+    * [Paramètres optionnels](#paramètres-optionnels)
+* [Préparation pour acétate](#préparation-pour-acétate)
+* [Préparation pour élastique](#préparation-pour-élastique)
 * [Assemblage final](#assemblage-final)
 * [Processus de désinfectation](#processus-de-désinfectation)
 * [Avertissement](#avertissement)
@@ -150,7 +150,7 @@ Si la superficie de votre imprimante le permet, vous pouvez imprimer plus d'une 
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/close.PNG" /></div>
 
-### Paramètres optionnels/avancés
+### Paramètres optionnels
 
 Voici quelques paramètres à modifier pour accélérer l'impression. Garder à l'esprit qu'on vise le volume et non la perfection. Aussi, rester à l'intérieur des capacités de votre imprimante. Il est préférable d'imprimer un peu plus lentement que la moitié de vos impressions échoues.
 
@@ -191,13 +191,13 @@ Comme exemple, voici les paramètres utilisés avec [Cura 4.5](https://ultimaker
 
 Bonne chance! Persévérez, amusez-vous, c'est le plus important. Il ne faut pas trop se prendre au sérieux :)
 
-# Préparation de l'acétate
+# Préparation pour acétate
 À l'aide d'une troueuse standard pour faire des trous de cartable (une troueuse qui fait des trous au standard nord-américain 4.25"), faites des trous dans une feuille d'acétate de la même manière que vous faites pour une feuille de papier standard.
 
 **TODO** Ajouter une photo
 
 Si la capacité de votre troueuse le permet, nous vous recommandons de faire des trous dans plusieurs feuilles d'acétate à la fois!
-# Préparation de l'élastique
+# Préparation pour élastique
 Attacher deux élastiques ensembles! C'est l'étape la plus simple!
 
 **TODO** Ajouter une photo
