@@ -1,6 +1,7 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/logo.png" /></div>
 
 <br />
+<br />
 
 Dans ce guide vous allez retrouver toutes les informations requises pour fabriquer vos propres visières par impression 3D pour aider dans la lutte contre COVID-19.
 
