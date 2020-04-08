@@ -93,7 +93,7 @@ Si un modèle n'existe pas encore, vous pouvez créer le votre vous-même! La co
 #### Configuration OpenSCAD
 [OpenSCAD](https://www.openscad.org/) est un logiciel gratuit de modélisation CAD paramétrique. Au lieu de modéliser graphiquement un modèle, il est programmer. Cette particularité vous permet d'adapter très facilement le modèle à vos paramètres d'impression.
 
-Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD ». Cliquer dessus pour lancer le programme :
+Après avoir installé [OpenSCAD](https://www.openscad.org/) sur votre ordinateur vous retrouvez le fichier « modification.scad » dans le dossier « CAD » dans le dossier que vous avez télécharger à l'étape précèdente. Cliquer dessus pour lancer le programme :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/modificationSCAD.PNG" /></div>
 
@@ -127,7 +127,7 @@ Avant d'exporter votre modèle pour impression, vous devez faire le rendu du mod
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/render.PNG" /></div>
 
-Ensuite, pour exporter le modèle, cliquer sur F7 et sélectionner l'endroit pour sauvgarder le fichier. Garder à l'esprit de lui donner un nom utile, OpenSCAD ne gardera pas vos paramètres en mémoire!
+Ensuite, pour exporter le modèle, cliquer sur F7 et sélectionner l'endroit pour sauvgarder le fichier. Garder à l'esprit de lui donner un nom utile, OpenSCAD ne gardera pas vos paramètres en mémoire! Nous vous recommandons de suivre la convention suivante :
 
 ## Impression
 
