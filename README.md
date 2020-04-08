@@ -25,8 +25,8 @@ For the version in English scroll to the end... **TODO**
 * [Pour débuter vous allez avoir besoin de...](#pour-débuter-vous-allez-avoir-besoin-de)
 * [Impression 3D](#impression-3d)
   * [Préparation du modèle](#préparation-du-modèle)
-    * [Sélectionner un modèle existant](#sélectionner-un-modèle-existant)
-    * [Configurer un modèle selon vos propres besoins](#configurer-un-modèle-selon-vos-propres-besoins)
+    * [1. Sélectionner un modèle existant](#1.-sélectionner-un-modèle-existant)
+    * [2. Configurer un modèle selon vos propres besoins](#2.-configurer-un-modèle-selon-vos-propres-besoins)
       * [Configuration OpenSCAD](#configuration-openscad)
       * [Paramètres](#paramètres)
       * [Exportation](#exportation)
@@ -54,7 +54,7 @@ Peu coûteux, facilement accessible et possible d'imprimer à grande vitesse, le
 
 - Des feuilles d'acétate de format A4
 
-Vous pourrez en trouver dans les articles de bureau.
+Vous pourrez en trouver dans les magasins d'articles de bureau.
 
 - Des élastiques
 
@@ -81,12 +81,12 @@ Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous dés
 
 Ouvrez le dossier compressé et vous avez deux options maintenant.
 
-### Sélectionner un modèle existant
+### 1. Sélectionner un modèle existant
 Si un modèle existe déjà pour votre configuration, veuillez le sélectionner et passer à l'étape [Impression](#impression).
 
 **TODO**
 
-### Configurer un modèle selon vos propres besoins!
+### 2. Configurer un modèle selon vos propres besoins!
 Si un modèle n'existe pas encore, vous pouvez créer le votre vous-même! La configuration est assez simple!
 #### Configuration OpenSCAD
 [OpenSCAD](https://www.openscad.org/) est un logiciel gratuit de modélisation CAD paramétrique. Au lieu de modéliser graphiquement un modèle, il est programmer. Cette particularité vous permet d'adapter très facilement le modèle à vos paramètres d'impression.
