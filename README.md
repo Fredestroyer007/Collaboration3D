@@ -46,7 +46,7 @@ For the version in English scroll to the end... **TODO**
 
 - Une imprimante 3D 
 
-Tant que la zone d'impression mesure un minimum de 125x125mm vous allez être en mesure d'imprimer les visières. Une surface chauffante est recommendée, mais elle n'est pas essentielle. Utiliser la même méthode d'impression que vous utilisez normalement pour du PLA.
+Tant que la zone d'impression mesure un minimum de 125x125mm vous allez être en mesure d'imprimer les visières. Une surface chauffante est recommendée, mais elle n'est pas essentielle. Utiliser la même méthode d'adhésion que vous utilisez normalement pour du PLA.
 
 - Du filament de type PLA
 
