@@ -81,8 +81,10 @@ Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous dés
 
 Ouvrez le dossier compressé et vous avez deux options maintenant.
 
+[La première option](#option-1---sélectionner-un-modèle-existant) est pour un utilisateur moins avancé et [la seconde option](#option-2---configurer-un-modèle-selon-vos-propres-besoins) est pour un utilisateur avancé qui désir optimiser sa production au maximum.
+
 ### Option 1 - Sélectionner un modèle existant
-Si un modèle existe déjà pour votre configuration, veuillez le sélectionner et passer à l'étape [Impression](#impression).
+Si un modèle existe déjà pour votre configuration d'imprimante, veuillez le sélectionner et passer à l'étape [Impression](#impression).
 
 **TODO**
 
