@@ -1,5 +1,7 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/logo.png" /></div>
 
+<br />
+
 Dans ce guide vous allez retrouver toutes les informations requises pour fabriquer vos propres visières par impression 3D pour aider dans la lutte contre COVID-19.
 
 Notre modèle *Jaguar* est une version modifiée du merveilleux modèle conçu par le [Fablab de l'Université Libre de Bruxelles](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/). Vous pouvez retrouver leur modèle original [ici](https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields/-/tree/master/PFC-Headband-Light-3DPrint).
