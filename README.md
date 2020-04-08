@@ -25,8 +25,8 @@ For the version in English scroll to the end... **TODO**
 * [Pour débuter vous allez avoir besoin de...](#pour-débuter-vous-allez-avoir-besoin-de)
 * [Impression 3D](#impression-3d)
   * [Préparation du modèle](#préparation-du-modèle)
-    * [1. Sélectionner un modèle existant](#1.-sélectionner-un-modèle-existant)
-    * [2. Configurer un modèle selon vos propres besoins](#2.-configurer-un-modèle-selon-vos-propres-besoins)
+    * [Option 1 - Sélectionner un modèle existant](#option-1---sélectionner-un-modèle-existant)
+    * [Option 2 - Configurer un modèle selon vos propres besoins](#option-2---configurer-un-modèle-selon-vos-propres-besoins)
       * [Configuration OpenSCAD](#configuration-openscad)
       * [Paramètres](#paramètres)
       * [Exportation](#exportation)
@@ -81,12 +81,12 @@ Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous dés
 
 Ouvrez le dossier compressé et vous avez deux options maintenant.
 
-### 1. Sélectionner un modèle existant
+### Option 1 - Sélectionner un modèle existant
 Si un modèle existe déjà pour votre configuration, veuillez le sélectionner et passer à l'étape [Impression](#impression).
 
 **TODO**
 
-### 2. Configurer un modèle selon vos propres besoins!
+### Option 2 - Configurer un modèle selon vos propres besoins!
 Si un modèle n'existe pas encore, vous pouvez créer le votre vous-même! La configuration est assez simple!
 #### Configuration OpenSCAD
 [OpenSCAD](https://www.openscad.org/) est un logiciel gratuit de modélisation CAD paramétrique. Au lieu de modéliser graphiquement un modèle, il est programmer. Cette particularité vous permet d'adapter très facilement le modèle à vos paramètres d'impression.
