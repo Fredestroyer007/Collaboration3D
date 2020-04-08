@@ -155,7 +155,7 @@ Si la superficie de votre imprimante le permet, vous pouvez imprimer plus d'une 
 
 ### Paramètres optionnels
 
-Voici quelques paramètres à modifier pour accélérer l'impression. Garder à l'esprit qu'on vise le volume et non la perfection. Aussi, rester à l'intérieur des capacités de votre imprimante. Il est préférable d'imprimer un peu plus lentement que la moitié de vos impressions échoues.
+Voici quelques paramètres à modifier pour accélérer l'impression pour des utilisateurs avancés. Garder à l'esprit qu'on vise le volume et non la perfection. Aussi, rester à l'intérieur des capacités de votre imprimante. Il est préférable d'imprimer un peu plus lentement que la moitié de vos impressions échoues.
 
 Une vitesse d'impression de plus de 80mm/s devrait être atteignable sur une majorité d'imprimante. Nous vous recommandons de garder la vitesse d'impression de votre premières couches assez lentes (25mm/s) et d'augmenter votre vitesse de déplacement (« Travel ») à plus de 200mm/s.
 
@@ -244,7 +244,7 @@ Pour débuter, voici le processus par trempage (recommandé):
 Si cette alternative n'est pas une option, vous pouvez simplement passer un linge trempé dans l'alcool isopropylique partout sur la visière ou même la passer sous l'eau tiède (attention le PLA commence à perdre sa rigidité à 50°C!!!) avec du savon et frotter avec un linge. Cependant, il ne s'agit pas du processus recommandé, car il est très difficile de nettoyer partout, entre chaque ligne d'impression, en frottant avec un linge. Il s'agit du processus à utiliser en dernier recours si aucune autre alternative est disponible.
 
 # Avertissement
-Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulement être utilisé en dernier recours, si aucune autres alternatives est disponibles. Nous dénions formellement toutes responsabilités.
+Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulement être utilisé en dernier recours, si aucune autres alternatives sont disponibles. Nous dénions formellement toutes responsabilités.
 
 # Auteurs
 * **Frédéric Larochelle** - *Travail initial* - [Fredestroyer007](https://github.com/Fredestroyer007)
