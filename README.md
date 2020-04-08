@@ -75,7 +75,7 @@ Sur [la page principale Github](https://github.com/Fredestroyer007/Collaboration
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/cloneOrDownload.PNG" /></div>
 
-Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous désirez télécharger les fichiers :
+Ensuite, cliquer sur « Download ZIP » et sélectionner l'endroit que vous désirez télécharger les fichiers sur votre ordinateur :
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/downloadZip.PNG" /></div>
 
