@@ -12,7 +12,7 @@ Si vous imprimez le modèle, envoyer nous des photos sur [Facebook](https://www.
 
 Vous pouvez aussi visiter notre [site web](https://collaboration3d.ca/) pour plus d'information!
 
-Un gros merci à nos commanditaires : le Collège de Bois-de-Boulogne, la fondation de l'Hôpital Sacré-Coeur de Montréal la firme Laporte et Bureau en gros!
+Un gros merci à nos commanditaires : le Collège de Bois-de-Boulogne, la fondation de l'Hôpital Sacré-Coeur de Montréal, la firme Laporte et Bureau en gros!
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/commanditaire.png" /></div>
 
