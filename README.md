@@ -225,6 +225,8 @@ Voilà! L'assemblage est aussi simple!
 # Processus de désinfectation
 Une étape très important est le processus de désinfectation de la visière. Une visière contaminé par le coronavirus n'est pas un bon outil pour ce protéger contre COVID-19!
 
+Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement selon le protocole de la firme Laporte. Cliquer [ici](src/files/Procédure de désinfectation.pdf) pour télécharger le protocole
+
 Pour débuter, veuillez suivre les précautions suivantes lors de la production :
 
 1. Si vous doutez que vous-même ou un proche puisse être atteint par le COVID-19. Il n'est pas recommandé de produire des visières en raison du risque de propagation.
@@ -233,18 +235,6 @@ Pour débuter, veuillez suivre les précautions suivantes lors de la production 
 4. Garder tous animaux de compagnie éloigné des visières ou de votre imprimante 3D.
 5. Une fois par jour, veuillez désinfecter votre imprimante avec de l'alcool à friction isopropylique.
 6. Idéalemment, laisser les visières pour une durée de 3 jours dans un sac en plastique avant de les utiliser. Si ce n'est pas possible, veuillez voir les processus de désinfectation  qui suivent!
-
-Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement. La période recommandé est au minimum aux 3 heures.
-
-Pour débuter, voici le processus par trempage (recommandé):
-
-1. Remplir un bac assez volumineux pour submerger la visière complètement d'alcool à friction isopropylique ou d'une solution d'eau de javel composé de 20 parts d'eau pour 1 part d'eau de javel.
-2. Submerger la visière durant au moins 1 minute.
-3. Retirer la visière.
-4. Sécher avec un linge la visière.
-5. Répéter ce processus minimum aux 3 heures.
-
-Si cette alternative n'est pas une option, vous pouvez simplement passer un linge trempé dans l'alcool isopropylique partout sur la visière ou même la passer sous l'eau tiède (attention le PLA commence à perdre sa rigidité à 50°C!!!) avec du savon et frotter avec un linge. Cependant, il ne s'agit pas du processus recommandé, car il est très difficile de nettoyer partout, entre chaque ligne d'impression, en frottant avec un linge. Il s'agit du processus à utiliser en dernier recours si aucune autre alternative est disponible.
 
 # Avertissement
 Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulement être utilisé en dernier recours, si aucune autres alternatives sont disponibles. Nous dénions formellement toutes responsabilités.
