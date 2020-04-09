@@ -252,7 +252,8 @@ Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulemen
 # Auteurs
 * **Frédéric Larochelle** - *Travail initial* - [Fredestroyer007](https://github.com/Fredestroyer007)
 
-# Licence
+# Licence 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 Ce projet est distribué sous une licence GNU General Public License v3.0 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
