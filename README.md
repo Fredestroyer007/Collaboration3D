@@ -1,6 +1,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/logo.png" /></div>
 
-[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/Fredestroyer007/Collaboration3D/total.svg)]()
+[![Github all releases](https://img.shields.io/github/downloads/Fredestroyer007/Collaboration3D/total.svg)]
 
 <br />
 <br />
