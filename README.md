@@ -11,6 +11,8 @@ Le modèle *Jaguar* peut sembler assez léger et peu résistant, mais je vous as
 
 Le coût brut de production estimé est moins de 1$ soit 0,20$ pour le filament, 0,70$ pour la feuille d'acétate et des élastiques. En plus, la durée d'impression par visière est d'environ 20 minutes.
 
+Si vous rencontrer un problème lors de l'impression vous pouvez aller directement à notre [FAQ](#faq). **TODO**
+
 Si vous imprimez le modèle, envoyer nous des photos sur [Facebook](https://www.facebook.com/Collaboration3D/). Nous voulons voir vos résultats!!!
 
 Vous pouvez aussi visiter notre [site web](https://collaboration3d.ca/) pour plus d'information!
@@ -41,6 +43,7 @@ For the version in English scroll to the end... **TODO**
 * [Assemblage final](#assemblage-final)
 * [Processus de désinfectation](#processus-de-désinfectation)
 * [Avertissement](#avertissement)
+* [FAQ](#faq)
 * [Auteurs](#auteurs)
 * [Licence](#licence)
 * [Reconnaissance](#reconnaissance)
@@ -242,7 +245,7 @@ L'assemblage final se fait en quelques étapes simples:
 
 8. Débuter par rentrer la point d'attache du milieu de la visière dans le trous du milieu de la feuille d'acétate.
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/11.jpg.jpg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/11.jpg" /></div>
 
 9. Continuer, en effectuant la même manipulation avec les trous de gauches.
 
@@ -282,6 +285,10 @@ D'autres petites notes à garder en tête lors de la production des visières so
 
 # Avertissement
 Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulement être utilisé en dernier recours, si aucune autres alternatives sont disponibles. Nous dénions formellement toutes responsabilités.
+
+# FAQ
+
+**TODO**
 
 # Auteurs
 * **Frédéric Larochelle** - *Travail initial* - [Fredestroyer007](https://github.com/Fredestroyer007)
