@@ -1,5 +1,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/logo.png" /></div>
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 <br />
 <br />
 
@@ -254,6 +255,7 @@ Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulemen
 
 # Licence 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
 Ce projet est distribué sous une licence GNU General Public License v3.0 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
 
