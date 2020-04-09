@@ -200,11 +200,9 @@ Bonne chance! Persévérez, amusez-vous, c'est le plus important. Il ne faut pas
 # Préparation pour acétate
 À l'aide d'une troueuse standard pour faire des trous de cartable (une troueuse qui fait des trous au standard nord-américain 4.25"), faites des trous dans une feuille d'acétate de la même manière que vous faites pour une feuille de papier standard.
 
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/8.jpg" /></div>
+div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/9.jpg" /></div>
 
 Si la capacité de votre troueuse le permet, nous vous recommandons de faire des trous dans plusieurs feuilles d'acétate à la fois!
-
-<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/9.jpg" /></div>
 
 # Préparation pour élastique
 Attacher deux élastiques ensembles! C'est l'étape la plus simple!
@@ -212,7 +210,7 @@ Attacher deux élastiques ensembles! C'est l'étape la plus simple!
 **TODO** Ajouter une photo
 
 # Assemblage final
-L'assemblage final se fait en ? simples:
+L'assemblage final se fait en quelques étapes simples:
 
 1. Laisser votre modèle reposer quelques temps après la fin de l'impression. Vous devez laisser le temps au plastique de bien se refroidir. Vous pouvez profiter de cette période pour inspecter les pièces pour des défauts et des petits bouts de plastiques que vous pouvez retirer.
 
@@ -255,16 +253,18 @@ L'assemblage final se fait en ? simples:
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/13.jpg" /></div>
 
 11. Veuillez répéter la même série d'opération (de 7 à 10) avec chacune des visières.
+ 
+**TODO IMG**
 
 12. Attacher les élastiques
 
+**TODO IMG**
+
 13. Vous avez maintenant des visières de protection!
 
-
+**TODO IMG**
 
 Voilà! L'assemblage est aussi simple!
-
-**TODO** Ajouter une photo
 
 # Processus de désinfectation
 Une étape très important est le processus de désinfectation de la visière. Une visière contaminé par le coronavirus n'est pas un bon outil pour ce protéger contre COVID-19!
