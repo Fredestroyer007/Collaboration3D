@@ -200,7 +200,7 @@ Bonne chance! Persévérez, amusez-vous, c'est le plus important. Il ne faut pas
 # Préparation pour acétate
 À l'aide d'une troueuse standard pour faire des trous de cartable (une troueuse qui fait des trous au standard nord-américain 4.25"), faites des trous dans une feuille d'acétate de la même manière que vous faites pour une feuille de papier standard.
 
-div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/9.jpg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/9.jpg"/></div>
 
 Si la capacité de votre troueuse le permet, nous vous recommandons de faire des trous dans plusieurs feuilles d'acétate à la fois!
 
