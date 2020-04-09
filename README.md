@@ -130,7 +130,7 @@ Avant d'exporter votre modèle pour impression, vous devez faire le rendu du mod
 
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/render.PNG" /></div>
 
-Ensuite, pour exporter le modèle, cliquer sur F7 et sélectionner l'endroit pour sauvgarder le fichier. Garder à l'esprit de lui donner un nom utile, OpenSCAD ne gardera pas vos paramètres en mémoire! Nous vous recommandons de suivre la convention suivante :
+Ensuite, pour exporter le modèle, cliquer sur F7 et sélectionner l'endroit pour sauvgarder le fichier. Garder à l'esprit de lui donner un nom utile, OpenSCAD ne gardera pas vos paramètres en mémoire! Nous vous recommandons de suivre la convention suivante : *Jaguar - (**la hauteur de couche**) - x(**le nombre de visière superposé**).stl*. Donc, par exemple, un fichier avec les paramètres de 0.3mm de hauteur de couche et de 8 visières les unes sur les autres serait nommé : ***Jaguar - .3mm - x8.stl***.
 
 ## Impression
 
