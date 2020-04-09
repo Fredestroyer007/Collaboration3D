@@ -200,23 +200,67 @@ Bonne chance! Persévérez, amusez-vous, c'est le plus important. Il ne faut pas
 # Préparation pour acétate
 À l'aide d'une troueuse standard pour faire des trous de cartable (une troueuse qui fait des trous au standard nord-américain 4.25"), faites des trous dans une feuille d'acétate de la même manière que vous faites pour une feuille de papier standard.
 
-**TODO** Ajouter une photo
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/8.jpg" /></div>
 
 Si la capacité de votre troueuse le permet, nous vous recommandons de faire des trous dans plusieurs feuilles d'acétate à la fois!
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/9.jpg" /></div>
+
 # Préparation pour élastique
 Attacher deux élastiques ensembles! C'est l'étape la plus simple!
 
 **TODO** Ajouter une photo
+
 # Assemblage final
-L'assemblage final se fait en deux simples:
+L'assemblage final se fait en ? simples:
 
-1. Attacher la feuille d'acétate sur la pièce imprimé en 3D. La feuille ne devrait pas pouvoir être retiré facilemment des points de support.
+1. Laisser votre modèle reposer quelques temps après la fin de l'impression. Vous devez laisser le temps au plastique de bien se refroidir. Vous pouvez profiter de cette période pour inspecter les pièces pour des défauts et des petits bouts de plastiques que vous pouvez retirer.
 
-**TODO** Ajouter une photo
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/1.jpg" /></div>
 
-2. Ajouter les deux élastiques sur les crochets.
+2. En tirant dans des directions opposés, vous devez commencer à séparer les visières des unes des autres. Vous n'avez pas besoin de beaucoup de force. Si les visières sont trop bien attaché ensemble, il y a un problème à quelques parts dans vos paramètres d'impression.
 
-**TODO** Ajouter une photo
+<div align="center"><img src="https://github.com/Fredestroyer007/Collaboration3D/blob/master/src/img/wiki/2.jpg" /></div>
+
+3. Vous pouvez lentement continuer à séparer les visières.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/4.jpg" /></div>
+
+4. La visière est maintenant séparé, veuillez répéter ce processus pour chaque visière.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/5.jpg" /></div>
+
+5. Maintenant, avec des pinces à côté coupant, veuillez retirer les support de la visière.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/6.jpg" /></div>
+
+6. Veuillez répéter ce processus pour chaque visière.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/7.jpg" /></div>
+
+7.Veuillez prendre une visière et une acétate.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/10.jpg" /></div>
+
+8. Débuter par rentrer la point d'attache du milieu de la visière dans le trous du milieu de la feuille d'acétate.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/11.jpg.jpg" /></div>
+
+9. Continuer, en effectuant la même manipulation avec les trous de gauches.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/12.jpg" /></div>
+
+10. Et en effectuant la même manipulation avec les trous de droites.
+
+<div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/13.jpg" /></div>
+
+11. Veuillez répéter la même série d'opération (de 7 à 10) avec chacune des visières.
+
+12. Attacher les élastiques
+
+13. Vous avez maintenant des visières de protection!
+
+
 
 Voilà! L'assemblage est aussi simple!
 
@@ -225,16 +269,16 @@ Voilà! L'assemblage est aussi simple!
 # Processus de désinfectation
 Une étape très important est le processus de désinfectation de la visière. Une visière contaminé par le coronavirus n'est pas un bon outil pour ce protéger contre COVID-19!
 
-Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement selon le protocole de la firme Laporte. Cliquer [ici](https://github.com/Fredestroyer007/Collaboration3D/raw/master/src/files/Proc%C3%A9dure_de_d%C3%A9sinfection.pdf) pour télécharger le protocole
+Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement selon le protocole de la firme Laporte. Cliquer [ici](https://github.com/Fredestroyer007/Collaboration3D/raw/master/src/files/Proc%C3%A9dure_de_d%C3%A9sinfection.pdf) pour télécharger le protocole. Un gros merci à la firme Laporte pour avoir produit ce protocole.
 
-Pour débuter, veuillez suivre les précautions suivantes lors de la production :
+D'autres petites notes à garder en tête lors de la production des visières sont les suivantes :
 
 1. Si vous doutez que vous-même ou un proche puisse être atteint par le COVID-19. Il n'est pas recommandé de produire des visières en raison du risque de propagation.
 2. Lors de la production, avant de manipuler des visières, des outils, des imprimantes 3D, veuillez vous lavez les mains durant au moins 20 secondes avec de l'eau tiède et du savon.
 3. Lorsque vous manipulez votre imprimante et les visières, veuillez porter une des visières que vous avez fabriquer!
 4. Garder tous animaux de compagnie éloigné des visières ou de votre imprimante 3D.
 5. Une fois par jour, veuillez désinfecter votre imprimante avec de l'alcool à friction isopropylique.
-6. Idéalemment, laisser les visières pour une durée de 3 jours dans un sac en plastique avant de les utiliser. Si ce n'est pas possible, veuillez voir les processus de désinfectation  qui suivent!
+6. Idéalemment, laisser les visières pour une durée de 3 jours dans un sac en plastique avant de les utiliser. Si ce n'est pas possible, veuillez utiliser le processus de désinfection!
 
 # Avertissement
 Ces visières ne sont pas approuvés par Santé Canada. Elles devraient seulement être utilisé en dernier recours, si aucune autres alternatives sont disponibles. Nous dénions formellement toutes responsabilités.
