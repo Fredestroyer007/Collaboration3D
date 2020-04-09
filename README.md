@@ -225,7 +225,7 @@ Voilà! L'assemblage est aussi simple!
 # Processus de désinfectation
 Une étape très important est le processus de désinfectation de la visière. Une visière contaminé par le coronavirus n'est pas un bon outil pour ce protéger contre COVID-19!
 
-Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement selon le protocole de la firme Laporte. Cliquer [ici](src/files/Procédure de désinfectation.pdf) pour télécharger le protocole
+Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement selon le protocole de la firme Laporte. Cliquer [ici](src/files/Procédure_de_désinfectation.pdf) pour télécharger le protocole
 
 Pour débuter, veuillez suivre les précautions suivantes lors de la production :
 
