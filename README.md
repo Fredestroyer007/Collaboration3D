@@ -90,9 +90,7 @@ Ouvrez le dossier compressé et vous avez deux options maintenant.
 [La première option](#option-1---sélectionner-un-modèle-existant) est pour un utilisateur moins avancé et [la seconde option](#option-2---configurer-un-modèle-selon-vos-propres-besoins) est pour un utilisateur avancé qui désir optimiser sa production au maximum.
 
 ### Option 1 - Sélectionner un modèle existant
-Si un modèle existe déjà pour votre configuration d'imprimante, veuillez le sélectionner et passer à l'étape [Impression](#impression).
-
-**TODO**
+Pour débuter, si un modèle existe déjà pour votre configuration d'imprimante, vous devez sélectionner ce modèle. Aller dans le dossier « Modèle », puis « Jaguar ». Ensuite, vous devez sélectionner le dossier correspondant à la hauteur de couche que vous désirez imprimer. À l'intérieur du dossier choisit, vous devez sélectionner le nombre de visière empiler (indiquer par le multiplicateur). Nous vous recommandons de commencer par un nombre plus faible et de lentement augmenter. Vous pouvez ensuite passer à l'étape [Impression](#impression).
 
 ### Option 2 - Configurer un modèle selon vos propres besoins!
 Si un modèle n'existe pas encore, vous pouvez créer le votre vous-même! La configuration est assez simple!
