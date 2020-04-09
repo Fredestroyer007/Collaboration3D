@@ -207,7 +207,7 @@ Si la capacité de votre troueuse le permet, nous vous recommandons de faire des
 # Préparation pour élastique
 Attacher deux élastiques ensembles! C'est l'étape la plus simple!
 
-**TODO** Ajouter une photo
+**TODO IMG**
 
 # Assemblage final
 L'assemblage final se fait en quelques étapes simples:
