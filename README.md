@@ -1,6 +1,8 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Fredestroyer007/Collaboration3D/master/src/img/wiki/logo.png" /></div>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+
+[![GitHub last commit](https://img.shields.io/github/commit-activity/w/Fredestroyer007/Collaboration3D)]()
 <br />
 <br />
 
