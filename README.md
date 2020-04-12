@@ -41,7 +41,7 @@ For the version in English scroll to the end... **TODO**
 * [Préparation pour acétate](#préparation-pour-acétate)
 * [Préparation pour élastique](#préparation-pour-élastique)
 * [Assemblage final](#assemblage-final)
-* [Processus de désinfectation](#processus-de-désinfectation)
+* [Processus de désinfection](#processus-de-désinfection)
 * [Avertissement](#avertissement)
 * [FAQ](#faq)
 * [Auteurs](#auteurs)
@@ -267,8 +267,8 @@ L'assemblage final se fait en quelques étapes simples:
 
 Voilà! L'assemblage est aussi simple!
 
-# Processus de désinfectation
-Une étape très important est le processus de désinfectation de la visière. Une visière contaminé par le coronavirus n'est pas un bon outil pour ce protéger contre COVID-19!
+# Processus de désinfection
+Une étape très important est le processus de désinfection de la visière. Une visière contaminé par le coronavirus n'est pas un bon outil pour ce protéger contre COVID-19!
 
 Lors de l'usage de la visière, il est recommandé de la désinfecté périodiquement selon le protocole de la firme Laporte. Cliquer [ici](https://github.com/Fredestroyer007/Collaboration3D/raw/master/src/files/Proc%C3%A9dure_de_d%C3%A9sinfection.pdf) pour télécharger le protocole. Un gros merci à la firme Laporte pour avoir produit ce protocole.
 
