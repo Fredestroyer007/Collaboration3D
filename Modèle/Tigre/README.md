@@ -1,1 +1,1 @@
-Ceci est le bon modèle à imprimer
+Nous imprimons présentement ce modèle à 300 microns
