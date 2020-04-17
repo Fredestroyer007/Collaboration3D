@@ -1,4 +1,4 @@
-Le dossier « Jaguar » contient les modèles Jaguar que nous produisons actuellement! Il s'agit du modèle que vous devez imprimer! 
+Le dossier « Jaguar » contient les modèles Jaguar que nous produisons actuellement!
 Le dossier « Archive » contient le modèle Tigre que nous utilisions au début de la distribution à l'hôpital Sacré-Coeur 
 de Montréal. Le modèle Tigre est maintenant obsolète. Vous ne devriez pas l'imprimer!
 
