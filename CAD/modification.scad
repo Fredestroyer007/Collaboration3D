@@ -10,9 +10,10 @@
     CONTRIBUTORS : 
      - Adrien Centonze (Adricen) <adrien.centonze@love-open-design.com> : scad support for pins
      - Pierre Hilson (zorlgups) <zorglups.mailing@gmail.com> : Hooks closure parameters avoid the elastic band to come out so easily
-     - Frédéric Larochelle (Collaboration3D) <admin@collaboration3d.ca> : User interface customization and 4.25" North American hole spacing
+     - Frédéric Larochelle (Collaboration3D) <admin@collaboration3d.ca> : User interface customization, hook modification and 4.25" North American hole spacing
      
     VERSION NOTES:
+        - 3.6 : 2020-04-22 Collaboration3D contribution : hook modification for less accurate printer
         - 3.5 : 2020-04-02 Collaboration3D contribution : customization of the user interface, remove the hexagonal holes for faster print time, 4.25" North American hole spacing and update default settings
         - 3.4 : corrected position/dimensions for Zorglups contribution
         - 3.3 : Zorglups contribution : Enhanced hook fence generation to avoid hook weakness + dash correction where arches meet
@@ -58,14 +59,14 @@ approx_h  = 8;    //height of the module (approximative, will be adjusted to be 
 sec       = 5;    //setback from joining branches
 th        = 1.2;  //thickness of module (=0.4*3 or 0.6*2 for printing speed optimization)
 hook_d    = 4;    //hooks diameter
-hook_fence = .6; //fence width (the smaller, the better it holds the elastic bands)
+hook_fence = 1.2; //fence width (the smaller, the better it holds the elastic bands)
 
 
 //Fixing pins
 fix_n    = 3;     //number of pins
 fix_dist = 215.9; // distance between the extreme mounting pins
 fix_d = 5.5; //diameter of the mounting pins
-fix_h = 3.5;
+fix_h = 4; //pin lenght
 fix_over = 1.2;
 
 
